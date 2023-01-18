@@ -1,2 +1,2 @@
-# comandos-basicos-de-git-principiantes
-aca esta lo basico de lo basico una ves mas
+basico de comandos git 
+aca esta lo basico de lo basico una ves mas 123
